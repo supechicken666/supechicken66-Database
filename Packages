@@ -1,0 +1,14 @@
+Package: com.sc66.noctis12
+Name: Noctis12 (iOS 11 Preview)
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: A tweak
+Maintainer: SupeChicken66
+Author: SupeChicken66
+Section: Dark Mode Tweaks
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui
+Filename: debs/com.sc666.noctis12preview_0.2.deb
+Size: 110442
+MD5sum: 
+SHA1: 
+SHA256: 
